@@ -26,6 +26,13 @@ In the ISHO Innovation Lab, I developed a solar-powered lamp, which contained wi
 - <b>Long Bettery</b> (2000mAh)
 - <b>High Sensitive solar panel</b> 162*144mm
 - <b>Precise Solar charger circuit</b>
+- <b>7 hours continuous light</b>
+
+<h2>Speacial Feature:</h2>
+<p align="center">
+<img src="https://i.imgur.com/ajhnIx9.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 <h2>View walk-through:</h2>
 
