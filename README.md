@@ -49,7 +49,7 @@ In the ISHO Innovation Lab, I developed a solar-powered lamp, which contained wi
 <h2>Circuit Diagram:</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/90Cpaa5.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7Vwqs3V.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
