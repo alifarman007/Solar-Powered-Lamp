@@ -27,11 +27,15 @@ In the ISHO Innovation Lab, I developed a solar-powered lamp, which contained wi
 - <b>High Sensitive solar panel</b> 162*144mm
 - <b>Precise Solar charger circuit</b>
 
-<h2>Program walk-through:</h2>
+<h2>View walk-through:</h2>
 
 <p align="center">
-Program Output <br/>
-<img src="https://i.imgur.com/jTO4u1f.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/z7KXMX2.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/AW9HOnk.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
