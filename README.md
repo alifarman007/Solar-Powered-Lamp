@@ -20,9 +20,12 @@ In the ISHO Innovation Lab, I developed a solar-powered lamp, which contained wi
 <br />
 <br />
 
-<h2>Environments Used </h2>
+<h2>Features </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Warm Light</b> (3000k)
+- <b>Long Bettery</b> (2000mAh)
+- <b>High Sensitive solar panel</b> 162*144mm
+- <b>Precise Solar charger circuit</b>
 
 <h2>Program walk-through:</h2>
 
