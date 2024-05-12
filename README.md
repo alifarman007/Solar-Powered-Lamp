@@ -10,10 +10,15 @@ In the ISHO Innovation Lab, I developed a solar-powered lamp, which contained wi
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Versions</h2>
 
-- <b>Python</b> 
-- <b>Pycharm</b>
+- <b>Black Metal</b> 
+- <b>Wood and Rattan</b>
+
+<p align="center">
+<img src="https://i.imgur.com/wiLTSnb.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 <h2>Environments Used </h2>
 
