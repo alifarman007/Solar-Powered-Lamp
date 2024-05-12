@@ -53,7 +53,13 @@ In the ISHO Innovation Lab, I developed a solar-powered lamp, which contained wi
 <br />
 <br />
 
+<h2>PCB Developed for this Project</h2>
 
+<p align="center">
+<b>Solar Charger v1.0</b>
+<img src="https://i.imgur.com/5oZcpQL.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 <!--
  ```diff
