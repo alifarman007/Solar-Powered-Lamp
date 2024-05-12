@@ -39,11 +39,10 @@ In the ISHO Innovation Lab, I developed a solar-powered lamp, which contained wi
 <br />
 <br />
 
-<h2>Program Flow Chart:</h2>
+<h2>Circuit Diagram:</h2>
 
 <p align="center">
-Program Output <br/>
-<img src="https://i.imgur.com/p0AFF2q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/90Cpaa5.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
