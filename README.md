@@ -24,9 +24,11 @@ In the ISHO Innovation Lab, I developed a solar-powered lamp, which contained wi
 
 - <b>Warm Light</b> (3000k)
 - <b>Long Bettery</b> (2000mAh)
-- <b>High Sensitive solar panel</b> 162*144mm
-- <b>Precise Solar charger circuit</b>
-- <b>7 hours continuous light</b>
+- <b>High Sensitive Solar Panel</b> 162*144mm
+- <b>Precise Solar Charger Circuit</b>
+- <b>270 Degree Rotation</b>
+- <b>8 hours in Sunlight for Full Charge</b>
+- <b>5 hours Nonstop Light</b>
 
 <h2>Speacial Feature:</h2>
 <p align="center">
